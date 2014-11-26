@@ -1,6 +1,14 @@
 Logging in JavaScript & Node
 =============
 A little ditty on using console.log() for introspecting objects and debugging at runtime...
+
+**Table of Contents**
+
+- [Logging in JavaScript & Node](#)
+- [Installation](#)
+		- [On Cloud9](#)
+- [Lesson Steps](#)
+
 # Installation
 
 ### On Cloud9
