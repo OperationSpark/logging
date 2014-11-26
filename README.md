@@ -4,10 +4,9 @@ A little ditty on using console.log() for introspecting objects and debugging at
 
 **Table of Contents**
 
-- [Logging in JavaScript & Node](#)
-- [Installation](#)
-		- [On Cloud9](#)
-- [Lesson Steps](#)
+- [Installation](#user-content-installation)
+		- [On Cloud9](#user-content-on-cloud9)
+- [Lesson Steps](#user-content-lesson-steps)
 
 # Installation
 
