@@ -1,6 +1,6 @@
-console.log() : Logging in JavaScript
----
-
+Logging in JavaScript & Node
+=============
+A little ditty on using console.log() for introspecting objects and debugging at runtime...
 # Installation
 
 ### On Cloud9
