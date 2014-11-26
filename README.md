@@ -18,6 +18,10 @@ Select "Clone From URL".
 
 Nice, you're in business...
 
+---
+
+# Lesson Steps
+
 Logging is an essentials part of developing applications.  
 
 During development, logging helps developers introspect and debug an app, and in production, once an app is running live, logging allows the development team to record inputs, expectations, and error messages.
@@ -65,7 +69,7 @@ var now = new Date();
 **TODO 2**
 
 ```javascript
-// TODO 1 : log the simpleString variable //
+// TODO 2 : log the simpleString variable //
 console.log(simpleString);
 ```
 
@@ -137,4 +141,4 @@ loadjson('people.json', function (err, data) {
 
 In our exercise, we're invoking a function named `loadjson` to load the people.json file.  Once loaded, we'll have access to the people data in the `data` parameter.
 
-Let's use `console.log()` to instrospect that data, find out its structure and figure out how we can get a list of fullnames from that data.
+Let's use `console.log()` to instrospect that data, find out its structure and figure out how we can get a list of full-names from that data.
