@@ -5,7 +5,7 @@ A little ditty on using console.log() for introspecting objects and debugging at
 **Table of Contents**
 
 - [Installation](#user-content-installation)
-		- [On Cloud9](#user-content-on-cloud9)
+    - [On Cloud9:](#user-content-on-cloud9)
 - [Lesson Steps](#user-content-lesson-steps)
 
 # Installation
